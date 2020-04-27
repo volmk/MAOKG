@@ -3,5 +3,5 @@
 
 ## Результат роботи програми
 
-![lab](Result.MP4)
+![lab](Result.gif)
 
